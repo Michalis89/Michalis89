@@ -4,7 +4,7 @@
 <h3 align="center">A frontend developer from Greece</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalis89&label=Profile%20views&color=0e75b6&style=flat" alt="michalis89" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgflip.com/9mqg4.jpg">
+<img align="right" alt="Coding" width="360" src="https://i.imgflip.com/9mqg4.jpg">
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -27,5 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalis89&show_icons=true&locale=en&layout=compact" alt="michalis89" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michalis89&show_icons=true&locale=en" alt="michalis89" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis89&" alt="michalis89" /></p>
