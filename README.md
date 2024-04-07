@@ -37,16 +37,15 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  
   </p>
 
 <p align="left">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis89&" alt="michalis89" />
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis89&" alt="michalis89" />
 </p>
 <p align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michalis89&show_icons=true&locale=en" alt="michalis89" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=michalis89&show_icons=true&locale=en" alt="michalis89" />
 </p>
 <br/>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalis89&show_icons=true&locale=en&layout=compact" alt="michalis89" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalis89&show_icons=true&locale=en&layout=compact" alt="michalis89" />
 </p>
