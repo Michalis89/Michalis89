@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michail Mouzakitis</h1>
 <h3 align="center">A frontend developer from Greece</h3>
+<a href="https://example.com" target="_blank">Visit Example.com</a>
 
 - 🌱 I’m currently learning **NextJS** 
 - 👨‍💻 All of my projects are available at [CV-Portoflio](https://cv-portoflio.web.app) 
