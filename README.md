@@ -46,9 +46,9 @@
 <p align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=michalis89&show_icons=true&locale=en" alt="michalis89" />
 </p>
-<br/>
-<p></p>
-<br/>
+
+
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalis89&show_icons=true&locale=en&layout=compact" alt="michalis89" />
 </p>
