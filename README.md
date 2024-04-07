@@ -4,8 +4,6 @@
 
 <h3 align="center">A frontend developer from Greece</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michalis89&label=Profile%20views&color=0e75b6&style=flat" alt="michalis89" /> </p>
-
 <img align="right" alt="Coding" width="360" src="https://i.imgflip.com/9mqg4.jpg">
 
 - 🌱 I’m currently learning **NextJS**
@@ -26,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
@@ -51,10 +49,6 @@
 <p align="right">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=michalis89&show_icons=true&locale=en" alt="michalis89" />
 </p>
-
-<p align="center">&nbsp;</p>
-<p align="center">&nbsp;</p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalis89&show_icons=true&locale=en&layout=compact" alt="michalis89" />
 </p>
