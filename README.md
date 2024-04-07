@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michail Mouzakitis</h1>
 <h3 align="center">A frontend developer from Greece</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michalis89" alt="michalis89" /></a> </p>
-
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://cv-portoflio.web.app](https://cv-portoflio.web.app)
 
-- 📝 I regularly write articles on [https://medium.com/@mouzakitis.m89/streamlining-api-testing-in-vs-code-with-thunder-client-70b256168875](https://medium.com/@mouzakitis.m89/streamlining-api-testing-in-vs-code-with-thunder-client-70b256168875)
+- 📝 I regularly write articles on [https://medium.com/@mouzakitis.m89/streamlining-api-testing-in-vs-code-with-thunder-client-70b256168875](https://medium.com/@mouzakitis.m89)
 
 - 📫 How to reach me **mouzakitis.m89@gmail.com**
 
