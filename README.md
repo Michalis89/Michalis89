@@ -2,20 +2,20 @@
 <h3 align="center">A frontend developer from Greece</h3>
 
 - 🌱 I’m currently learning **NextJS** 
-- 👨‍💻 All of my projects are available at[CV-Portoflio](https://cv-portoflio.web.app) 
+- 👨‍💻 All of my projects are available at [CV-Portoflio](https://cv-portoflio.web.app) 
 - 📝 I regularly write articles on [Medium](https://medium.com/@mouzakitis.m89) 
 - 📫 How to reach me **mouzakitis.m89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/michailm89" style="text-decoration: none;" target="_blank"
+  <a href="https://twitter.com/michailm89" style="text-decoration: none" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="michailm89"
       height="40"
       width="50"
-      style="margin-right: 10px;"
+      style="margin-right: 10px"
   /></a>
   <a
     href="https://linkedin.com/in/michalis-mouzakitis"
@@ -54,7 +54,6 @@
   <a
     href="https://www.w3schools.com/css/"
     target="_blank"
-    rel="noreferrer"
     style="text-decoration: none"
   >
     <img
@@ -68,7 +67,6 @@
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
-    rel="noreferrer"
     style="text-decoration: none"
   >
     <img
@@ -82,7 +80,6 @@
   <a
     href="https://www.typescriptlang.org/"
     target="_blank"
-    rel="noreferrer"
     style="text-decoration: none"
   >
     <img
@@ -115,7 +112,7 @@
 
 <h3 align="left">Backend:</h3>
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <a href="https://nodejs.org" target="_blank" style="text-decoration: none">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -124,7 +121,7 @@
       style="margin-right: 10px"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <a href="https://expressjs.com" target="_blank" style="text-decoration: none">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
