@@ -37,8 +37,7 @@ I enjoy building web apps with modern tools like **Next.js, React, Angular, and 
 ![Stryker](https://img.shields.io/badge/Mutation%20Testing-Stryker-4B0082?logo=stryker)
 
 ### 📊 GitHub Stats
-![Michalis89's GitHub Stats]()
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michalis89&layout=compact&theme=dark)
+
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michalis-mouzakitis)
