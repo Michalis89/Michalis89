@@ -1,54 +1,45 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
+### Hi there! 👋 I'm **Michail Mouzakitis**
+#### A Frontend Engineer from Greece
 
-<h1 align="center">Hi 👋, I'm Michail Mouzakitis</h1>
+I enjoy building web apps with modern tools like **Next.js, React, Angular, and TypeScript**—keeping things fast, clean, and user-friendly.
 
-<h3 align="center">A frontend developer from Greece</h3>
+### 🚀 About Me
+- 🌱 Currently exploring **Next.js** and advanced frontend architectures
+- 👨‍💻 I build projects using **Angular, React, TypeScript, and Node.js**
+- 📝 I rarely write articles on [Medium](https://medium.com/@mouzakitis.m89)
+- 📬 Reach me at: **mouzakitis.m89@gmail.com**
 
-<img align="right" alt="Coding" width="360" src="https://i.imgflip.com/9mqg4.jpg">
+### 📌 Featured Projects
+- 🖥️ [**CV Portfolio**](https://cv-portoflio.web.app) – A showcase of my work and projects.
+- 🎮 [**Platinum Hunters GR**]([https://platinum-hunters-gr.vercel.app](https://github.com/Michalis89/Platinum-Hunters-GR)) – A platform for searching trophy guides.
+- ☀️ [**Weather App**](https://github.com/Michalis89/weather-app-js) – A simple weather application.
+- 📊 [**COVID-19 Tracker**](https://github.com/Michalis89/covid-19-tracker) – A data visualization dashboard for tracking COVID-19 cases.
 
-- 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [CV-Portfolio](https://cv-portoflio.web.app)
+### 🛠️ Tech Stack
+#### **Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@mouzakitis.m89)
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-- 📫 How to reach me **mouzakitis.m89@gmail.com**
+#### **Testing**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Stryker](https://img.shields.io/badge/Mutation%20Testing-Stryker-4B0082?logo=stryker)
 
-<h3 align="left">Connect with me:</h3>
+### 📊 GitHub Stats
+![Michalis89's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michalis89&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michalis89&layout=compact&theme=dark)
 
-<p align="left">
-  
-<a href="https://linkedin.com/in/michalis-mouzakitis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalis-mouzakitis" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Frameworks and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a> 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50"/> </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-  <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  </p>
-
-<p align="left">
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michalis89&" alt="michalis89" />
-</p>
-<p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=michalis89&show_icons=true&locale=en" alt="michalis89" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michalis89&show_icons=true&locale=en&layout=compact" alt="michalis89" />
-</p>
+### 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michalis-mouzakitis)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Michalis89)
