@@ -11,7 +11,7 @@ I enjoy building web apps with modern tools like **Next.js, React, Angular, and 
 
 ### 📌 Featured Projects
 - 🖥️ [**CV Portfolio**](https://cv-portoflio.web.app) – A showcase of my work and projects.
-- 🎮 [**Platinum Hunters GR**](https://platinum-hunters-gr.vercel.app](https://github.com/Michalis89/Platinum-Hunters-GR) – A platform for searching trophy guides.
+- 🎮 [**Platinum Hunters GR**](https://platinum-hunters-gr.vercel.app) – A platform for searching trophy guides.
 - ☀️ [**Weather App**](https://github.com/Michalis89/weather-app-js) – A simple weather application.
 - 📊 [**COVID-19 Tracker**](https://github.com/Michalis89/covid-19-tracker) – A data visualization dashboard for tracking COVID-19 cases.
 
