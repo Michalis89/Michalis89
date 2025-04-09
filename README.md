@@ -8,6 +8,8 @@ I enjoy building web apps with modern tools like **Next.js, React, Angular, and 
 - 👨‍💻 I build projects using **Angular, React, TypeScript, and Node.js**
 - 📝 I rarely write articles on [Medium](https://medium.com/@mouzakitis.m89)
 - 📬 Reach me at: **mouzakitis.m89@gmail.com**
+- 🧠 Practicing on Codewars:  
+  [![Codewars](https://www.codewars.com/users/yourusername/badges/small)](https://www.codewars.com/users/Michail89)
 
 ### 📌 Featured Projects
 - 🖥️ [**CV Portfolio**](https://michail-mouzakitis-portfolio.vercel.app) – A showcase of my work and projects.
