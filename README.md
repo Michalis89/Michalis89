@@ -12,8 +12,8 @@ I enjoy building web apps with modern tools like **Next.js, React, Angular, and 
   [![Codewars](https://www.codewars.com/users/Michail89/badges/large)](https://www.codewars.com/users/Michail89)
 
 ### 📌 Featured Projects
+- 🎮 [**Hobbistas-Hub**](https://hobbistas-hub.com/) – No 1 Hobby Hub
 - 🖥️ [**CV Portfolio**](https://michail-mouzakitis-portfolio.vercel.app) – A showcase of my work and projects.
-- 🎮 [**Platinum Hunters GR**](https://platinumhunters.gr) – A platform for searching trophy guides.
 - ☀️ [**Weather App**](https://github.com/Michalis89/weather-app-js) – A simple weather application.
 - 📊 [**COVID-19 Tracker**](https://github.com/Michalis89/covid-19-tracker) – A data visualization dashboard for tracking COVID-19 cases.
 
